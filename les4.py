@@ -17,7 +17,7 @@ print(num_e)
 from les import Bank
 
 # print(Bank.mro())
-p = Bank('beka', 1_000_000, '1234rdfewr')
+p = Bank('zoro', 1_000_000, '1234rdfewr')
 # print(p)
 
 p2 = random.randint(1, 9)

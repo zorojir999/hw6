@@ -34,11 +34,11 @@ class Bank:
         self._password = name
 
 
-beka = Bank('bekbolot', 0, '2525')
-print(beka)
-print(beka.nameis)
-beka.nameis = '9990'
-print(beka.nameis)
+malik = Bank('malik', 0, '2525')
+print(malik)
+print(malik.nameis)
+malik.nameis = '9990'
+print(malik.nameis)
 
 
 # beka.mon1()
@@ -73,6 +73,6 @@ class Tea:
         print('выкл')
 
 
-beko = Tea('beko')
+zoro = Tea('zoro')
 # beko.start()
 # beko._stop()
